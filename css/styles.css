@@ -1,0 +1,134 @@
+body{
+    color: #40514E;
+    margin:0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+h1{
+    color: #66BFBF;
+    font-size: 5.625em;
+    margin:50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+}
+h2{
+    color:#66BFBF;
+    font-size: 2.5rem;
+    font-weight: normal;
+    font-family: 'Montserrat', sans-serif;
+    padding:10px;
+}
+.intro{
+    width:30%;
+    margin:auto;
+}
+h3{
+    color:#11999E;
+    font-family: 'Montserrat', sans-serif;
+    padding:10px;
+}
+hr{
+    border-color: grey;
+    border-style: dotted none none;
+    height: 0px;
+    border-width: 5px;
+    width: 5%;
+}
+.top-container{
+    background-color: #CDF0EA;
+    margin:0px;
+    position:relative;
+    padding-top: 100px;
+    
+}
+.middle-container{
+    background-color: white;
+    margin:100px 0;
+    padding-bottom: 20px;
+    
+}
+.bottom-container{
+    background-color: #CDF0EA;
+    padding: 20px 0 20px;
+}
+.under{
+    text-decoration: underline;
+}
+.top-cloud{
+    position: relative;
+    top: 20px;
+    left: 300px;
+}
+.bottom-cloud{
+    position: relative;
+    bottom:300px;
+
+}
+.avatar{
+    border-radius: 100%;
+    margin-top: 60px;
+    width: 200px;
+    height:200px;
+    
+}
+.computer-pic{
+    border-radius: 100%;
+    margin: auto 30px auto auto;
+    width: 200px;
+    height:200px;
+    float: left;
+}
+.code-pic{
+    border-radius: 100%;
+    margin: auto auto auto 30px;
+    width: 200px;
+    height:200px;
+    float: right;
+} 
+.skill-row{
+    top: 50px;
+    width:50%;
+    margin: 100px auto 100px auto;
+    text-align: left;    
+}
+.contact-me{
+    width:40%;
+    margin: 40px auto 50px;
+  }
+.btn {
+    background: #cdf0ea;
+    background-image: -webkit-linear-gradient(top, #cdf0ea, #2980b9);
+    background-image: -moz-linear-gradient(top, #cdf0ea, #2980b9);
+    background-image: -ms-linear-gradient(top, #cdf0ea, #2980b9);
+    background-image: -o-linear-gradient(top, #cdf0ea, #2980b9);
+    background-image: linear-gradient(to bottom, #cdf0ea, #2980b9);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 25;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 22px;
+    padding: 10px 30px 10px 30px;
+    text-decoration: none;
+    margin-top: 20px;;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    text-decoration: none;
+  }
+  p{
+    line-height: 2;
+  }
+  a{
+    color:#11999E;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+  }
+  a:hover{
+    color:#66BFBF;
+  }
+
+ .copywrite{
+    color:white;
+    font-size: 10px;
+ }
